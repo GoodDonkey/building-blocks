@@ -1,0 +1,36 @@
+[submodule "spring-basic"]
+	path = spring
+	url = https://github.com/GoodDonkey/spring.git
+	branch = main
+[submodule "spring-core"]
+	path = spring_core
+	url = https://github.com/GoodDonkey/spring_core.git
+	branch = main
+[submodule "spring-thymeleaf-basic"]
+	path = thymeleaf-basic
+	url = https://github.com/GoodDonkey/thymeleaf-basic.git
+	branch = main
+[submodule "spring-thymeleaf-form"]
+	path = spring-thymeleaf-form
+	url = https://github.com/GoodDonkey/spring-thymeleaf-form.git
+	branch = main
+[submodule "spring-servlet"]
+	path = spring_servlet
+	url = https://github.com/GoodDonkey/spring_servlet.git
+	branch = main
+[submodule "spring-mvc"]
+	path = spring_MVC
+	url = https://github.com/GoodDonkey/spring_MVC.git
+	branch = main
+[submodule "spring-exception"]
+	path = spring-exception
+	url = https://github.com/GoodDonkey/spring-exception.git
+	branch = main
+[submodule "spring-login"]
+	path = spring-login
+	url = https://github.com/GoodDonkey/spring-login.git
+	branch = main
+[submodule "spring-validation"]
+	path = spring-validation
+	url = https://github.com/GoodDonkey/spring-validation.git
+	branch = main
